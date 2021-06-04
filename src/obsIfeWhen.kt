@@ -1,0 +1,14 @@
+//// Mesmo funcionamento de If e When
+//    if (saldo > 0.0) {
+//        println("Conta positiva")
+//    } else if (saldo == 0.0) {
+//        println("Conta neutra")
+//    } else {
+//        println("Conta negativa")
+//    }
+//
+//    when{
+//        saldo > 0.0 -> println("Conta positiva")
+//        saldo == 0.0 -> println("Conta neutra")
+//        else -> println("Conta negativa")
+//    }
